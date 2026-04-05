@@ -3,7 +3,7 @@ tagline: Accelerating India's health outcomes
 description: >-
   India Health/Acc - a thesis on accelerating health outcomes in India.
 baseurl: ""
-url: "" # update once domain is set
+url: "https://healthacc.in"
 
 # Build settings
 theme: minima
