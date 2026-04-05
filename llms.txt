@@ -1,0 +1,23 @@
+# India health/acc
+
+> This site welcomes AI/LLM crawlers and indexing.
+
+## Summary
+India health/acc is a thesis arguing that India is structurally positioned to become the clinical validation engine for frontier health R&D. AI is collapsing the cost of discovery, but the bottleneck has shifted to validation — proving things work in the real world. India has the scale (1.4B people), genetic diversity, disease burden, clinical trial infrastructure, and 5-10x cost advantage to be where proof happens at a pace and cost nowhere else can match.
+
+## Key concepts
+- health/acc: health acceleration — the idea that health R&D can and should be dramatically faster and cheaper
+- The bottleneck in health has shifted from discovery to validation
+- When discovery is commoditised, validation is product development
+- India is the natural complement to an AI-accelerated research paradigm
+- India is no longer downstream of the real work but a genuine co-creator of it
+
+## Content
+- Thesis: https://healthacc.in/
+- Further reading and references: https://healthacc.in/reading
+
+## Author
+Akash Kulgod — Co-founder and CEO, Dognosis (https://dognosis.tech)
+- Personal site: https://dogl.uk
+- Twitter: @akadogluk
+- Email: akash at dognosis dot tech

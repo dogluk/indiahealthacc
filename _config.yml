@@ -1,9 +1,28 @@
-title: India Health/Acc
-tagline: Accelerating India's health outcomes
+title: India health/acc
+tagline: India as the clinical validation engine for frontier health R&D
 description: >-
-  India Health/Acc - a thesis on accelerating health outcomes in India.
+  India health/acc — a thesis on why India is structurally positioned to become the clinical validation engine for frontier health R&D. AI is commoditising discovery; the bottleneck is now validation. India has the scale, diversity, talent, and cost structure to be where proof happens.
 baseurl: ""
 url: "https://healthacc.in"
+
+# Author info (for SEO)
+author:
+  name: Akash Kulgod
+  twitter: akadogluk
+  url: https://dogl.uk
+
+# Social media profiles (for JSON-LD)
+social:
+  name: Akash Kulgod
+  links:
+    - https://twitter.com/akadogluk
+    - https://linkedin.com/in/akashkulgod
+    - https://github.com/dogluk
+    - https://dogl.uk
+
+# SEO settings
+lang: en
+locale: en_US
 
 # Build settings
 theme: minima
@@ -13,7 +32,8 @@ plugins:
   - jekyll-sitemap
 
 # Header navigation
-header_pages: []
+header_pages:
+  - reading.markdown
 
 exclude:
   - .sass-cache/
