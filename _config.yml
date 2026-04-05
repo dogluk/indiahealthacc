@@ -19,6 +19,7 @@ plugins:
 # Header navigation
 header_pages:
   - reading.markdown
+  - people.markdown
 
 exclude:
   - .sass-cache/

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: People — India health/acc
+title: People
 ---
 
 # People

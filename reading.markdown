@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reading — India health/acc
+title: Reading
 ---
 
 # Reading
