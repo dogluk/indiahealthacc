@@ -25,7 +25,7 @@ References, further reading, and people working on the India clinical validation
 
 ### People and orgs
 
-- [PopVax](https://popvax.com/) — mRNA vaccine R&D, Hyderabad. India's most compelling example of original biotech research at a fraction of US cost.
+- [PopVax](https://popvax.com/) — mRNA vaccine R&D, Hyderabad.
 - [Dognosis](https://dognosis.tech/) — canine-AI cancer detection from breath, Bangalore.
 - [1Day Sooner](https://www.1daysooner.org/) — clinical trial reform advocacy.
 - [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) — clinical trial abundance fellowships. Soham Sankaran is also a fellow here.
