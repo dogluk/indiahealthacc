@@ -47,5 +47,45 @@
   </script>
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
+  <!-- Custom styles -->
+  <style>
+    /* Tricolour stripe */
+    .tricolour {
+      height: 9px;
+      background: linear-gradient(to bottom, #FF9933 0%, #FF9933 33.33%, #FFFFFF 33.33%, #FFFFFF 66.66%, #138808 66.66%, #138808 100%);
+    }
+
+    /* Link colours */
+    a, a:visited {
+      color: #FF9933;
+    }
+    a:hover {
+      color: #138808;
+    }
+
+    /* Header title link */
+    .site-title, .site-title:visited {
+      color: #111 !important;
+    }
+    .site-title:hover {
+      color: #138808 !important;
+      text-decoration: none;
+    }
+
+    /* Custom nav */
+    .site-nav .page-link {
+      color: #FF9933;
+    }
+    .site-nav .page-link:hover {
+      color: #138808;
+      text-decoration: none;
+    }
+    .nav-sep {
+      color: #ccc;
+      margin: 0 0.3em;
+    }
+  </style>
+
   {%- feed_meta -%}
 </head>

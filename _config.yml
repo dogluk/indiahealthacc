@@ -16,10 +16,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Header navigation
-header_pages:
-  - reading.markdown
-  - people.markdown
+# Header navigation (handled in custom header.html)
+header_pages: []
 
 exclude:
   - .sass-cache/
