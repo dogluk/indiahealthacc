@@ -33,4 +33,4 @@ References, further reading, and people working on the India clinical validation
 
 ---
 
-*Know something that should be on this page? [Get in touch](mailto:akash@dognosis.tech).*
+*Know something that should be on this page? Get in touch at healthacc at proton dot me.*

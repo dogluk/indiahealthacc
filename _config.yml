@@ -5,21 +5,6 @@ description: >-
 baseurl: ""
 url: "https://healthacc.in"
 
-# Author info (for SEO)
-author:
-  name: Akash Kulgod
-  twitter: akadogluk
-  url: https://dogl.uk
-
-# Social media profiles (for JSON-LD)
-social:
-  name: Akash Kulgod
-  links:
-    - https://twitter.com/akadogluk
-    - https://linkedin.com/in/akashkulgod
-    - https://github.com/dogluk
-    - https://dogl.uk
-
 # SEO settings
 lang: en
 locale: en_US

@@ -16,8 +16,5 @@ India health/acc is a thesis arguing that India is structurally positioned to be
 - Thesis: https://healthacc.in/
 - Further reading and references: https://healthacc.in/reading
 
-## Author
-Akash Kulgod — Co-founder and CEO, Dognosis (https://dognosis.tech)
-- Personal site: https://dogl.uk
-- Twitter: @akadogluk
-- Email: akash at dognosis dot tech
+## Contact
+healthacc at proton dot me

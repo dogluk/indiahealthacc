@@ -29,8 +29,4 @@ The question is not whether India plays this role but who recognises it early en
 
 ---
 
-*[Akash Kulgod](https://dogl.uk/) · Co-founder and CEO, [Dognosis](https://dognosis.tech/)*
-
-*Get in touch: akash at dognosis dot tech*
-
 [Further reading and references →](/reading)
