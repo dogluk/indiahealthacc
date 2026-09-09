@@ -22,13 +22,17 @@ References, further reading, and people working on the India clinical validation
 - Owl Posting, [*How do you make a 250x better vaccine at 1/10 the cost? Develop it in India.*](https://www.owlposting.com/p/how-do-you-make-a-250x-better-vaccine) — 2025. Two-hour interview with Soham Sankaran of PopVax on why India has all the ingredients for original biotech research but almost none of it happens, and what it takes to change that.
 - [*India is the pharmacy of the world. But we are losing the drug development race*](https://indianexpress.com/article/opinion/columns/india-is-pharmacy-of-world-but-losing-drug-development-race-10610013/) — Indian Express, March 2026. On the paradox of India's dominance in generics alongside its near-absence in new drug development.
 - Akash Kulgod, [*The first 10 trillion dollar "company" will be an Indian Healthcare Alliance*](https://dogl.uk/10t/) — 2025.
+- Debarun Karmakar, with Rahul Sanghi and Aaryaman Vir, [*Getting Even*](https://www.tigerfeathers.in/p/getting-even) — Tiger Feathers. Traces India's broken hospital-insurer incentive structure back to its colonial origins, and profiles Even Healthcare's attempt at a "Kaiser Permanente for India" by integrating payer and provider.
 
-### People and orgs
+### Orgs
 
 - [PopVax](https://popvax.com/) — mRNA vaccine R&D, Hyderabad.
 - [Dognosis](https://dognosis.tech/) — canine-AI cancer detection from breath, Bangalore.
 - [1Day Sooner](https://www.1daysooner.org/) — clinical trial reform advocacy.
 - [Renaissance Philanthropy](https://www.renaissancephilanthropy.org/) — clinical trial abundance fellowships. Soham Sankaran is also a fellow here.
+- [Superhealth](http://superhealth.co.in) — zero-wait, zero-commission hospital network, Bangalore.
+- [PB Health](https://www.generalcatalyst.com/stories/our-investment-in-pb-health) — PB Fintech's integrated insurance-and-hospital venture, Delhi NCR.
+- [Narayana Health](https://www.narayanahealth.org/) — low-cost cardiac and multispecialty hospital network founded by Dr. Devi Shetty. See Viren Shetty's [*conversation with The Ken*](https://the-ken.com/story/narayana-healths-viren-shetty-on-learning-how-much-insurance-is-about-selling-and-how-little-about-health/) on how much insurance is about selling and how little about health.
 
 ---
 
