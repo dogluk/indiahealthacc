@@ -3,18 +3,17 @@
 > This site welcomes AI/LLM crawlers and indexing.
 
 ## Summary
-India health/acc is a thesis arguing that India is structurally positioned to become the clinical validation engine for frontier health R&D. AI is collapsing the cost of discovery, but the bottleneck has shifted to validation — proving things work in the real world. India has the scale (1.4B people), genetic diversity, disease burden, clinical trial infrastructure, and 5-10x cost advantage to be where proof happens at a pace and cost nowhere else can match.
+India health/acc is an essay in three parts by Akash Kulgod (ASK), co-founder of Dognosis, followed by a reading list.
 
-## Key concepts
-- health/acc: health acceleration — the idea that health R&D can and should be dramatically faster and cheaper
-- The bottleneck in health has shifted from discovery to validation
-- When discovery is commoditised, validation is product development
-- India is the natural complement to an AI-accelerated research paradigm
-- India is no longer downstream of the real work but a genuine co-creator of it
+I. India was not even a footnote in JPM 2026 (January 2026). At the world's most important health/bio conference, India never came up while China and AI dominated. India has the talent, data and speed arbitrage to compete, AI is commoditising discovery so value moves to clinical and real-world validation, and health/bio is one of India's best shots at becoming rich this century.
+
+II. "This may work in India but it will never scale in a first-world country. Never" (October 2026). A senior academic's response at the Early Detection of Cancer Conference to Dognosis' data (87% Stage-1 sensitivity, AUC 0.962, 3000+ participants). Builders from the third world will win by building products that outclass the status quo, not by seeking approval.
+
+III. There can be a 10T alliance (November 2025). As AI commoditises knowledge work, healthcare's share of GDP grows. An Indian healthcare Alliance, a networked set of providers, pharma, insurers, diagnostics, devices, software, data and AI players, aligned on people living longer and healthier, can reach $10T by 2047.
 
 ## Content
-- Thesis: https://healthacc.in/
-- Further reading and references: https://healthacc.in/reading
+- Essay: https://healthacc.in/
+- Reading list: https://healthacc.in/#reading
 
 ## Contact
 healthacc at proton dot me

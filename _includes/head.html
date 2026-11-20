@@ -4,15 +4,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Primary Meta Tags -->
-  <meta name="title" content="India health/acc — clinical validation engine for frontier health R&D">
-  <meta name="description" content="A thesis on why India is structurally positioned to become the clinical validation engine for frontier health R&D. The bottleneck has shifted from discovery to validation, and India has the scale, diversity, and cost structure to be where proof happens.">
+  <meta name="title" content="India health/acc">
+  <meta name="description" content="Three pieces on India and health: not even a footnote at JPM 2026, “it will never scale”, and there can be a 10T alliance.">
   <meta name="keywords" content="health/acc, healthacc, India health/acc, India healthacc, clinical trials India, clinical validation, health R&D India, biotech India, clinical trial abundance, frontier health, health acceleration, India R&D">
 
   {%- seo -%}
 
   <!-- Open Graph / Social -->
   <meta property="og:title" content="India health/acc" />
-  <meta property="og:description" content="Accelerate health R&D in India." />
+  <meta property="og:description" content="India was not even a footnote at JPM 2026. What would it take?" />
   <meta property="og:image" content="https://healthacc.in/og-image.png" />
   <meta property="og:url" content="https://healthacc.in" />
   <meta property="og:type" content="website" />
@@ -21,7 +21,7 @@
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="India health/acc" />
-  <meta name="twitter:description" content="Accelerate health R&D in India." />
+  <meta name="twitter:description" content="India was not even a footnote at JPM 2026. What would it take?" />
   <meta name="twitter:image" content="https://healthacc.in/og-image.png" />
 
   <!-- Favicon -->
@@ -32,9 +32,10 @@
   {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "India health/acc — India as the clinical validation engine for frontier health R&D",
-    "description": "A thesis on why India is structurally positioned to become the clinical validation engine for frontier health R&D. AI is commoditising discovery; the bottleneck is now validation.",
+    "headline": "India health/acc",
+    "description": "Three pieces on India and health: not even a footnote at JPM 2026, \"it will never scale\", and there can be a 10T alliance.",
     "url": "https://healthacc.in",
+    "author": {"@type": "Person", "name": "Akash Kulgod", "url": "https://dogl.uk/"},
     "publisher": {
       "@type": "Organization",
       "name": "India health/acc"
@@ -51,45 +52,45 @@
   }
   </script>
 
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-
-  <!-- Custom styles -->
   <style>
-    /* Tricolour stripe */
-    .tricolour {
-      height: 9px;
-      background: linear-gradient(to bottom, #FF9933 0%, #FF9933 33.33%, #FFFFFF 33.33%, #FFFFFF 66.66%, #138808 66.66%, #138808 100%);
+    :root { --ink: #111; --muted: #666; --paper: #fffff8; --link: #3b5998; --rule: #e2dece; }
+    @media (prefers-color-scheme: dark) {
+      :root { --ink: #e8e6df; --muted: #9a978d; --paper: #151513; --link: #8fa9dc; --rule: #3a3933; }
     }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html { background: var(--paper); }
+    body {
+      margin: auto; max-width: 780px; padding: 0 1.5rem;
+      background: var(--paper); color: var(--ink);
+      font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+      font-size: 1.15rem; line-height: 1.65;
+    }
+    header { margin-top: 3rem; margin-bottom: 2.5rem; }
+    header h1 { font-weight: 400; font-size: 2.8rem; line-height: 1; letter-spacing: -0.01em; }
+    header h1 a, header h1 a:visited { color: var(--ink); text-decoration: none; }
+    main h2 { font-weight: 400; font-size: 1.7rem; line-height: 1.25; margin: 0 0 1.5rem; }
+    main h3 { font-weight: 400; font-size: 1.3rem; margin: 2.2rem 0 0.8rem; }
+    main p { margin-bottom: 1.4rem; line-height: 1.7; }
+    main ol, main ul { padding-left: 1.5rem; margin-bottom: 1.4rem; }
+    main li { margin-bottom: 1rem; line-height: 1.6; }
+    main hr { border: 0; border-top: 1px solid var(--rule); margin: 3rem 0; }
+    a, a:visited { color: var(--link); text-decoration: underline; }
+    footer { margin: 4rem 0 3rem; color: var(--muted); font-size: 0.95rem; }
 
-    /* Link colours */
-    a, a:visited {
-      color: #FF9933;
-    }
-    a:hover {
-      color: #138808;
-    }
-
-    /* Header title link */
-    .site-title, .site-title:visited {
-      color: #111 !important;
-    }
-    .site-title:hover {
-      color: #138808 !important;
-      text-decoration: none;
-    }
-
-    /* Custom nav */
-    .site-nav .page-link {
-      color: #FF9933;
-    }
-    .site-nav .page-link:hover {
-      color: #138808;
-      text-decoration: none;
-    }
-    .nav-sep {
-      color: #ccc;
-      margin: 0 0.3em;
-    }
+    /* three-part essay */
+    .toc { display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 4rem; }
+    .toc a, .toc a:visited { color: var(--muted); text-decoration: none; }
+    .toc a:hover { color: var(--link); text-decoration: underline; }
+    .part { padding-top: 1rem; }
+    .part + .part, .reading { border-top: 1px solid var(--rule); margin-top: 4rem; padding-top: 4rem; }
+    .numeral { font-size: 3.2rem; line-height: 1; letter-spacing: 0.04em; color: var(--muted); margin-bottom: 1.2rem; }
+    main h2.has-sub { margin-bottom: 0.4rem; }
+    .sub { font-style: italic; color: var(--muted); margin-bottom: 1.8rem; }
+    .date { color: var(--muted); font-size: 0.95rem; margin-bottom: 1.8rem; }
+    .sub + .date { margin-top: -1.2rem; }
+    .sign { font-size: 1.6rem; letter-spacing: 0.08em; margin-top: 2.5rem; }
+    .closer { font-size: 1.35rem; line-height: 1.5; margin-top: 2.2rem; }
+    .reading h2 { font-size: 1.7rem; }
   </style>
 
   {%- feed_meta -%}
